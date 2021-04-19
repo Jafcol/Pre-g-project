@@ -1,0 +1,16 @@
+{
+  "name": "infermedica_webhook",
+  "version": "1.0.0",
+  "description": "Dialogflow Infermedica Webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jafcol",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "npm": "^6.4.1"
+  }
+}
