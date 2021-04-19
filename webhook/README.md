@@ -5,3 +5,5 @@ Consuming a webhook starts the same way as creating a new endpoint for your own 
 In Pre-g this means creating a new route to handle the incoming call from Dialogflow, process it and send a request to Infermedica's API.
 
 To comunicate with the API you need URL, APPID and APPKEY. To get them visit [Infermedica](https://infermedica.com/ "Infermedica").
+
+The app is ready to be deployed on the host platform you prefer, just add your credentials, follow platform instructions and you are ready to go!
