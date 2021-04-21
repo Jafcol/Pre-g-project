@@ -5,7 +5,7 @@ This app is built with [Android studio](https://developer.android.com/studio "An
 
 1. [Google cloud speech to text](https://cloud.google.com/speech-to-text "Google speech to text")
 
-2. Google dialogflow
+2. Google Dialogflow
 
 3. [Amazon polly](https://aws.amazon.com/it/polly/ "Amazon polly")
 
